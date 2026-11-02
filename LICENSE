@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 coronerra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+THIRD-PARTY ASSETS - NOT COVERED BY THIS LICENSE
+
+The MIT license above covers coronerra's own work only: the Python build
+scripts, the Papyrus sources, the SkyrimNet prompt bundle, the FOMOD config and
+the plugin records written by those scripts.
+
+It does NOT cover the following, which remain the property of their authors:
+- The female werewolf meshes (Data/meshes/.../coronerra/fluffy/2T/femalebodywerewolf_*.nif):
+  edited from HDT Werewolves (Duzellx et al.) and its "MFA and Growl Patch".
+  Any finalized/redistributed version that uses this female body needs Duzellx's permission.
+- The male werewolf meshes (Data/meshes/.../coronerra/fluffy/malebodywerewolf_*.nif):
+  edited (head unlinked, fur shells added) from BakaFactory's Animated Beasts Cocks (ABC).
+- The fur shell textures (Data/textures/.../coronerra/*_shell.dds): built from the ABC and
+  HDT Werewolves body diffuse textures and the Fluffworks fur-shell alpha pattern.
+- Records and data referenced from Growl, Monster Lip Sync (MFA), JS Emissive Eyes and
+  the Skyrim base game / DLC.

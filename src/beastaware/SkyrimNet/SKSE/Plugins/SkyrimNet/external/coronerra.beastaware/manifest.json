@@ -1,0 +1,23 @@
+{
+    "id": "coronerra.beastaware",
+    "type": "bundle",
+    "title": "Beast Aware",
+    "tagline": "NPCs see a werewolf, werebear or Vampire Lord when you transform.",
+    "description": "Adds a character-profile section when an actor is in werewolf, werebear or Vampire Lord form, describing a beast far too large for any clothing to fit. Pairs with BeastAware.esp, which announces shifting in and out of beast form.",
+    "author": "That Guy (Coronerra)",
+    "tags": [
+        "werewolf",
+        "vampire lord",
+        "immersion"
+    ],
+    "nsfw": false,
+    "version": "1.1.0",
+    "min_skyrimnet_version": "0.25.0",
+    "mods": [
+        {
+            "name": "BeastAware",
+            "file": "BeastAware.esp",
+            "required": false
+        }
+    ]
+}
