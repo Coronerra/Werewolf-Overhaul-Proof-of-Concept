@@ -62,20 +62,33 @@
    - **HDT Werewolves main:** in the plugin list, **untick `Werewolves.esp`**. The MFA patch replaces it.
 3. Download `Werewolf-Overhaul-PoC_v0.1.7z` from [Releases](../../releases) and install it in MO2 as one mod. It's a plain install, so the archive root is `Data`.
 4. **Left pane (mod priority):** put this mod **below** (so it wins over) ABC, HDT Werewolves, HDT's MFA and Growl Patch, and Monster Lip Sync.
-5. **Right pane (plugin order):**
+5. **Right pane (plugin order):** this is my tested order (other plugins in between are fine):
    ```
-   MonsterLipSync1.esp                 (above Growl)
+   MonsterLipSync1.esp
    Growl - Werebeasts of Skyrim.esp
-   Growl_USSEP.esp                     (if you have it)
+   Growl_USSEP.esp
    MFA-Growl-HDTWW_Patch.esp
    FemaleWerewolf_ABC_HDT_MFA.esp
-   ...
-   JS Emissive Eyes SE - Growl.esp     (if used)
+   OStim_Beast_Form.esp                    (optional companion)
+   BeastAware.esp
+   DIAPLO_BeastFix.esp                     (part of my Nolvus setup)
+   NolvusWerewolfCureFix.esp               (part of my Nolvus setup)
+   JS Emissive Eyes SE - Growl.esp         (if used)
+   Apothecary - Growl Patch.esp            (part of my Nolvus setup)
+   YOT - Growl.esp                         (part of my Nolvus setup)
    Face Sculptor Expanded - Growl Patch.esp (if used)
-   FemaleWerewolf_Compat_JSEyes.esp    (after both of the above)
-   BeastAware.esp                      (anywhere)
+   FemaleWerewolf_Compat_JSEyes.esp        (last, only with JS Emissive Eyes)
    ```
+   <img src="docs/load_order.png" alt="Tested plugin load order" width="290">
+
 6. Load a save. Give SkyUI a minute to register **Beast Aware** in the MCM. Then go howl at something. 🌕
+
+## 🎥 Test videos
+
+Recorded on the tested setup (Fluffy + 2T):
+
+- 🐺 [Male werewolf test](docs/videos/male_werewolf_test.mp4)
+- 🐺 [Female werewolf test](docs/videos/female_werewolf_test.mp4)
 
 ## ⚠️ Known caveats
 
