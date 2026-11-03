@@ -55,6 +55,7 @@
 
 **Related / recommended:**
 - 💦 [GT - Softbody](https://www.nexusmods.com/skyrimspecialedition/mods/152103) (v3.37.2 tested): it **affects ABC's bodies and physics** (its "A.B.C Soft Penis" FOMOD option, collision and SMP). If you use it, install it before step 3 below, and let this mod win over it in the left pane for the werewolf body meshes.
+- 💦 [OCum Werewolf Shot](https://github.com/Coronerra/OCum-Werewolf-Shot): makes OCum's cum shot come from the werewolf cock tip (ABC `WWD 9`), if you use OCum.
 - 💦 [OCum-Tull-Liquid-Softbody-Patch](https://github.com/Coronerra/OCum-Tull-Liquid-Softbody-Patch): one merged `OCumMaleScript` for OCum Ascended 4.1.1, the Tull/Liquid Pack add-on and GT Softbody, if you use OCum.
 
 ## 📦 Setup, step by step (MO2)
