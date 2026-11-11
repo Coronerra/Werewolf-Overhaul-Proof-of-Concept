@@ -14,6 +14,8 @@
 
 > 🧪 **This is a Proof of Concept.** The files in this repository are **not finalized**. They are only known to work on my own modified **Nolvus 6.0.21** (Skyrim SE 1.5.97) system. Your mileage may vary, and the howling may be off-key.
 
+> **Looking for the current OStim Beast Form release?** That's [OStim Beast Form Merged 0.5](https://github.com/Coronerra/OStim-Beast-Form-Merged). This repository is the earlier werewolf-body proof of concept. It assumed **Growl** (the race merges come from Growl and from HDT Werewolves' MFA and Growl Patch). Merged 0.5 also has Growl as a hard plugin master; the [Merged README](https://github.com/Coronerra/OStim-Beast-Form-Merged#growl-dependence) explains that dependence and how to retarget the plugin to vanilla werewolves, Twilight Werewolf Overhaul, or another overhaul.
+
 > 🔞 Adult content (ABC). For adults 18+ only.
 
 > 🔓 **Open source.** All the source code used to build it is in [`src/`](src/). If anyone wants to build on it and make a finalized version of anything here: **go for it.** But take note: **any finalized version that uses the female HDT body needs Duzellx's permission to use that body.** Otherwise, I recommend you seek out alternatives, such as [La Femme Lycana](https://www.nexusmods.com/skyrimspecialedition/mods/31049).
