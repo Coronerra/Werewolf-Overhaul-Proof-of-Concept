@@ -14,7 +14,7 @@
 
 > 🧪 **This is a Proof of Concept.** The files in this repository are **not finalized**. They are only known to work on my own modified **Nolvus 6.0.21** (Skyrim SE 1.5.97) system. Your mileage may vary, and the howling may be off-key.
 
-> **Looking for the current OStim Beast Form release?** That's [OStim Beast Form Merged 0.5](https://github.com/Coronerra/OStim-Beast-Form-Merged). This repository is the earlier werewolf-body proof of concept. It assumed **Growl** (the race merges come from Growl and from HDT Werewolves' MFA and Growl Patch). Merged 0.5 also has Growl as a hard plugin master; the [Merged README](https://github.com/Coronerra/OStim-Beast-Form-Merged#growl-dependence) explains that dependence and how to retarget the plugin to vanilla werewolves, Twilight Werewolf Overhaul, or another overhaul.
+> **Looking for the current OStim Beast Form release?** That's [OStim Beast Form Merged 0.6](https://github.com/Coronerra/OStim-Beast-Form-Merged) ([v0.6 release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/tag/v0.6)). TWO 4.1 users: [OStim Beast Form - TWO Edition 0.2](https://github.com/Coronerra/OStim-Beast-Form-TWO) or the [Merged TWO Patch](https://github.com/Coronerra/OStim-Beast-Form-Merged-TWO-Patch). This repository is the earlier werewolf-body proof of concept. It assumed **Growl** (the race merges come from Growl and from HDT Werewolves' MFA and Growl Patch). Merged (0.5 and later) also has Growl as a hard plugin master; the [Merged README](https://github.com/Coronerra/OStim-Beast-Form-Merged#growl-dependence) explains that dependence and how to retarget the plugin to vanilla werewolves, Twilight Werewolf Overhaul, or another overhaul.
 
 > 🔞 Adult content (ABC). For adults 18+ only.
 
