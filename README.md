@@ -3,7 +3,7 @@
 
 
 
-### DEPRECIATED! GO TO (https://github.com/Coronerra/OStim-Beast-Form/)
+# DEPRECIATED! GO TO (https://github.com/Coronerra/OStim-Beast-Form/)
 
 
 # 🐺🌕 Proof of Concept: Werewolf Overhaul 🌕🐺
