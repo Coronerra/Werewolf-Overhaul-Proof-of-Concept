@@ -1,5 +1,11 @@
 <div align="center">
 
+
+
+
+###DEPRECIATED! GO TO (https://github.com/Coronerra/OStim-Beast-Form/)###
+
+
 # 🐺🌕 Proof of Concept: Werewolf Overhaul 🌕🐺
 
 ### *Female werewolves, fluffy fur, and beasts that talk back.*
